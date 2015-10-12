@@ -1,0 +1,7 @@
+2015.09.22, Version 1.0.0 (Stable)
+
+This is the first officially versioned release of libshambles. Features include
+interception of established TCP connection over IPv4 and a sample suite of
+tools to perform basic connection hooking based on regular expressions searches
+within individual TCP packet data sections.
+
